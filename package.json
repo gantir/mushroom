@@ -1,0 +1,32 @@
+{
+  "name": "mushroom",
+  "version": "0.0.1",
+  "description": "Mushroom is a framework inspired by skeleton and bourbon/bitters/neat/refill. ready to drop right into your application version of Bootstrap, ready to drop right into your application.",
+  "main": "assets/stylesheets/mushroom.scss",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gantir/mushroom"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css"
+  ],
+  "contributors": [
+    "Thomas McDonald",
+    "Tristan Harward",
+    "Peter Gumeson",
+    "Gleb Mazovetskiy"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gantir/mushroom/issues"
+  },
+  "devDependencies": {
+    "node-sass": "~2.0",
+    "node-bourbon": "~4.2.3",
+    "node-neat": "~1.7.2",
+    "mincer": "~1.2",
+    "ejs": "~1.0"
+  }
+}
