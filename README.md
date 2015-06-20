@@ -7,13 +7,15 @@
 
 ## Testing
 1. Command to build the css file
-``` bash
-   >mushroom/assets/stylesheets$ sass _mushroom.scss ../css/mushroom.css
-```
+  
+  ```bash
+  sass _mushroom.scss ../css/mushroom.css
+  ```
 2. It always helps to be able to test things in the browser. To start a browser in any folder
-``` bash
-   >mushroom$ python -m SimpleHTTPServer 8000
-```
+  
+  ```bash
+  python -m SimpleHTTPServer 8000
+  ```
 
 ## Credit
 We build on the works of gaints. This would not have been possible without some of the seminal work done by others. Some of the projects which I have included or got inspired by:
