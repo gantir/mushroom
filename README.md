@@ -7,10 +7,12 @@
 
 ## Testing
 1. Command to build the css file
+  
   ```bash
   mushroom/assets/stylesheets$ sass _mushroom.scss ../css/mushroom.css
   ```
 2. It always helps to be able to test things in the browser. To start a browser in any folder
+  
   ```bash
    mushroom$ python -m SimpleHTTPServer 8000
   ```
